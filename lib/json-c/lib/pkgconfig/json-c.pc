@@ -1,0 +1,12 @@
+prefix=C:/Users/willi/OneDrive/Documentos/STR/Scheduling/lib/json-c-0.17/install-dir
+exec_prefix=C:/Users/willi/OneDrive/Documentos/STR/Scheduling/lib/json-c-0.17/install-dir
+libdir=C:/Users/willi/OneDrive/Documentos/STR/Scheduling/lib/json-c-0.17/install-dir/lib
+includedir=C:/Users/willi/OneDrive/Documentos/STR/Scheduling/lib/json-c-0.17/install-dir/include
+
+Name: json-c
+Description: A JSON implementation in C
+Version: 0.17
+Requires:
+Libs.private: 
+Libs: -L${libdir} -ljson-c
+Cflags: -I${includedir} -I${includedir}/json-c

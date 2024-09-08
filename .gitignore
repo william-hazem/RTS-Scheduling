@@ -1,0 +1,9 @@
+# build files
+build
+obj
+main
+
+# json-c source files
+lib/json-c-0.17 
+
+lib/liblogger.a
