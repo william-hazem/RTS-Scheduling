@@ -1,9 +1,13 @@
+# config files
+.vscode
+
 # build files
 build
 obj
 main
+resultado_escalonamento.json
 
 # json-c source files
 lib/json-c-0.17 
 
-lib/liblogger.a
+lib/logger/lib/liblogger.a

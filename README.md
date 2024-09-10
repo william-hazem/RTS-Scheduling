@@ -1,4 +1,8 @@
-Bibliotecas Third-Party:
+### Objetivos
+1. Determinar se o escalonamento de uma carga de trabalho específica é viável usando o algoritmo Rate Monotonic.
+2. Sugerir um escalonamento possível para a carga de trabalho utilizando uma heurística baseada na análise das tarefas fornecidas.
+
+### Bibliotecas Third-Party:
 - [json-c](https://github.com/json-c/json-c) versão 0.17
 
 ## Instalação
