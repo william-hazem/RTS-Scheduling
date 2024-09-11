@@ -1,3 +1,5 @@
+[Link do video no Youtube](https://youtu.be/tWev-09nh78) 
+
 ### Objetivos
 1. Determinar se o escalonamento de uma carga de trabalho específica é viável usando o algoritmo Rate Monotonic.
 2. Sugerir um escalonamento possível para a carga de trabalho utilizando uma heurística baseada na análise das tarefas fornecidas.
